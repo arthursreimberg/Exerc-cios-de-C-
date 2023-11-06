@@ -1,0 +1,17 @@
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios 11-13.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios_11_13.frmPrincipal.resources
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios_11_13.Properties.Resources.resources
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios 11-13.csproj.GenerateResource.cache
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios 11-13.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\bin\Debug\Exercícios 11-13.exe.config
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\bin\Debug\Exercícios 11-13.exe
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\bin\Debug\Exercícios 11-13.pdb
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios 11-13.exe
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios 11-13.pdb
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios_11_13.frmTabuada_while.resources
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios_11_13.frmTabuada_do.resources
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios_11_13.frmTabuada_for.resources
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios_11_13.frmConver_while.resources
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios_11_13.frmConver_do.resources
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios_11_13.frmConver_for.resources
+C:\Users\arthu\Desktop\Trabalhos\TPA\C#\Exercícios 11-13\Exercícios 11-13\obj\Debug\Exercícios_11_13.frmComodo.resources
